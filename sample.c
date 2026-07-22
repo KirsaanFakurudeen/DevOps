@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    print("DevOps");
+    print("DevOps - Develpment & Operations");
     return 0;
 }
